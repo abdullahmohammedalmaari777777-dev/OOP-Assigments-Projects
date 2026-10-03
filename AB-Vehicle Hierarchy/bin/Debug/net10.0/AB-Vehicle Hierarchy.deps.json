@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AB-Vehicle Hierarchy/1.0.0": {
+        "runtime": {
+          "AB-Vehicle Hierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AB-Vehicle Hierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
